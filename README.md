@@ -60,4 +60,4 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-This project was inspired by various online resources and tutorials on sentiment analysis using Python and NLP. We acknowledge the contributions of the open-source community in providing valuable tools and knowledge for this project.
+This template for natural language processing is teached to me in the udemy course called "MACHINE LEARNING A TO Z course by Hadelin de Ponteves and Kirill Eremenko
