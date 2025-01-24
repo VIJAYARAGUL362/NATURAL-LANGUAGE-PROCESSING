@@ -60,4 +60,4 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-This template for natural language processing is teached to me in the udemy course called "MACHINE LEARNING A TO Z course by Hadelin de Ponteves and Kirill Eremenko
+This template for natural language processing is teached to me in the udemy course called "MACHINE LEARNING A TO Z course" by Hadelin de Ponteves and Kirill Eremenko
